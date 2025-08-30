@@ -2,7 +2,7 @@
 <html lang="fr">
 <HHK Online>
   <meta charset="UTF-8">
-  <title>Mon premier site Cloudflare</title>
+  Mon premier site Cloudflare
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
