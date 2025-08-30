@@ -2,7 +2,7 @@
 <html lang="fr">
 <HHK Online>
   <meta charset="UTF-8">
-  Mon premier site Cloudflare
+  HHK Online
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
