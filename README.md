@@ -1,15 +1,4 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Mon site</title>
-  <!-- Ici je mets le titre de la page -->
-</head>
-<body>
-  <h1>Bienvenue sur mon site</h1>
-  <!-- Cette section sera modifiée plus tard -->
-</body>
-</html>
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
